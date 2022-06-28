@@ -1,2 +1,2 @@
-# Sec_System
+# SEC_System
 Smart EC Website
